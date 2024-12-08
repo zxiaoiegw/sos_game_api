@@ -1,0 +1,10 @@
+true,3,Human,Human,0,0,Completed
+Blue,1,0,S
+Red,1,2,O
+Blue,0,2,S
+Red,0,1,O
+Blue,1,1,S
+Red,0,0,O
+Blue,2,1,S
+Red,2,0,O
+Blue,2,2,S
